@@ -18,7 +18,9 @@ This indicates that Disney has historically focused more on film production than
 
 #4. Bar Plot : It helps us understand whether the majority of content is family-friendly, or if there's a growing presence of content aimed at teens and adults.
 
-![Screenshot 2025-05-15 162922](https://github.com/user-attachments/assets/079cc1d4-d26a-45f6-a799-350249a86269)
+![age rating on movies](https://github.com/user-attachments/assets/9690a2eb-fea4-4be8-82dc-9d7c0e72aaa2)
+
+![age rating on tv_shows](https://github.com/user-attachments/assets/dd2467f0-817d-4c3e-96cd-1442ca9349ea)
 
 #5. Scatter Plot : Analyzing movie and TV show genres over the years reveals how Disney+Hotstar's content themes have evolved with changing audience preferences.
 
