@@ -5,16 +5,15 @@
 This indicates that Disney has historically focused more on film production than television content.
 ![pie chart](https://github.com/user-attachments/assets/ee6404b7-cd89-4a2a-9d9b-d4666c58a5c1)
 
-#2. Bar Chart : This reveals Disney+Hotstar's dominant genre preferences and can highlight trends or shifts in content focus over time.
+#2. Line Plot : Analyzing content releases over the years shows how Disney+Hotstar's production volume has changed over time.
+
+![Screenshot 2025-05-15 165433](https://github.com/user-attachments/assets/f75da1bd-792e-4386-b108-0da4055d16a5)
+
+#3. Bar Chart : This reveals Disney+Hotstar's dominant genre preferences and can highlight trends or shifts in content focus over time.
 
 ![genre on movies](https://github.com/user-attachments/assets/387109a2-565d-45ea-96be-a41901ca4ed2)
 
 ![genre on tv_shows](https://github.com/user-attachments/assets/d10dc295-3018-448c-9cfe-2a812fefbee2)
-
-
-#3. Line Plot : Analyzing content releases over the years shows how Disney+Hotstar's production volume has changed over time.
-
-![Screenshot 2025-05-15 165433](https://github.com/user-attachments/assets/f75da1bd-792e-4386-b108-0da4055d16a5)
 
 #4. Bar Plot : It helps us understand whether the majority of content is family-friendly, or if there's a growing presence of content aimed at teens and adults.
 
