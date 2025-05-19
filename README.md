@@ -1,10 +1,13 @@
 # Tv-Movie-Catalog-on-Disney-Hotstar
 
 Excel Project: Dashboard
+
 ![excel dashboard](https://github.com/user-attachments/assets/e2b71c7b-d2b1-440a-bcb4-769da3a7ba7b)
 
 
 Python Project: all the plots
+
+
 #1. Pie Chart :Distribution of content types; The dataset includes two primary content types: movies and TV shows.
 This indicates that Disney has historically focused more on film production than television content.
 ![pie chart](https://github.com/user-attachments/assets/ee6404b7-cd89-4a2a-9d9b-d4666c58a5c1)
