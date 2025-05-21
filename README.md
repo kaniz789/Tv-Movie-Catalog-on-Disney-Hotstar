@@ -2,7 +2,8 @@
 
 Power BI Dashboard
 
-![Screenshot 2025-05-20 182714](https://github.com/user-attachments/assets/32478a65-6231-4d5e-8de5-09e33daa0422)
+![power bi](https://github.com/user-attachments/assets/d8ee8e5c-6b4e-404b-ad7c-acb0b6c2f711)
+
 
 
 Excel Project: Dashboard
