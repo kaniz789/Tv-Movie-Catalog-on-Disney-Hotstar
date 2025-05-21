@@ -1,5 +1,10 @@
 # Tv-Movie-Catalog-on-Disney-Hotstar
 
+Power BI Dashboard
+
+![Screenshot 2025-05-20 182714](https://github.com/user-attachments/assets/32478a65-6231-4d5e-8de5-09e33daa0422)
+
+
 Excel Project: Dashboard
 
 ![excel dashboard](https://github.com/user-attachments/assets/e2b71c7b-d2b1-440a-bcb4-769da3a7ba7b)
