@@ -7,7 +7,8 @@ Power BI Dashboard
 
 Excel Project: Dashboard
 
-![excel dashboard](https://github.com/user-attachments/assets/e2b71c7b-d2b1-440a-bcb4-769da3a7ba7b)
+![excel dashboard](https://github.com/user-attachments/assets/632d624c-6d9f-4de8-803c-7f61e28739d9)
+
 
 
 Python Project: all the plots
